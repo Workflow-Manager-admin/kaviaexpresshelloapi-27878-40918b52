@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/kaviaexpresshelloapi-27878-40918b52/kavia_express_hello_api"
+}
